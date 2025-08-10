@@ -1,0 +1,21 @@
+body {
+  background: linear-gradient(to right, black, rgb(35, 31, 31), black);
+}
+.sites {
+    width: 100px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.t {
+    margin-top: 100px;
+    border-radius: 5px;
+    width: 100px;
+    height: 35px;
+    border: none;
+    background: linear-gradient(to right, rgb(42, 158, 4), rgb(3, 83, 38), rgb(48, 163, 9));
+}
+.text {
+    text-decoration: none;
+    color: black;
+}
